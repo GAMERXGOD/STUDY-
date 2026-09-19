@@ -42,7 +42,7 @@ The idea is simple:
 ### 1. Clone the repository
 
 ```bash
-
+https://github.com/GAMERXGOD/STUDY-.git
 ```
 
 ### 2. Navigate to the project
